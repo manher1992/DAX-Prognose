@@ -1,2 +1,2 @@
-# DAX-Prognose
+# Stock predictions. just for fun
 
