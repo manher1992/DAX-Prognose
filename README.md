@@ -1,2 +1,2 @@
-# Stock predictions. just for fun
+# Dax stock forecast
 
